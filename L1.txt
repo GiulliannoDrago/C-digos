@@ -14,3 +14,5 @@ Git branch == Para ver as linhas temporais
 Git branch -D NomeDaLinhaDoTempo == deleta linha do tempo
 Git remote add origin "URL" == Conecta o Git no GitHub
 Git push origin NomeDaBranch == Manda a branch para o GitHub
+Git pull origin NomeDaBranch == Puxa as alterações o arquivo do GitHub 
+Git clone "URL de Projeto" == Clona um repositório do GitHub
