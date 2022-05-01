@@ -6,3 +6,4 @@ Git add . (Ou o nome da pasta/aquivo) == Adiciona no repositório local do Git
 Git commit -m "Mensagem de alteração" == Adiciona um check point 
 Git log == Mostra histórico 
 Git checkout == localizar ou trocar versão do arquivo
+Git merge == Mescla linhas temporais
