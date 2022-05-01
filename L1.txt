@@ -13,3 +13,4 @@ Git branch NomeDaLinhaDoTempo == Adiciona uma nova linha do tempo
 Git branch == Para ver as linhas temporais
 Git branch -D NomeDaLinhaDoTempo == deleta linha do tempo
 Git remote add origin "URL" == Conecta o Git no GitHub
+Git push origin NomeDaBranch == Manda a branch para o GitHub
