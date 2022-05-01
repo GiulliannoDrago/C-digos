@@ -1,0 +1,6 @@
+Qualquer coisinha aí.
+
+Git init == Inicia um repositório local do Git
+Git status == Exibe status do Git 
+Git add . (Ou o nome da pasta/aquivo) == Adiciona no repositório local do Git
+Git commit -m "Mensagem de alteração" == Adiciona um check point 
