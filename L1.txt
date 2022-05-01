@@ -7,3 +7,4 @@ Git commit -m "Mensagem de alteração" == Adiciona um check point
 Git log == Mostra histórico 
 Git checkout == localizar ou trocar versão do arquivo
 Git merge == Mescla linhas temporais
+Git reset --soft HEAD~1 == Remove o último commit
