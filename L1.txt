@@ -8,3 +8,4 @@ Git log == Mostra histórico
 Git checkout == localizar ou trocar versão do arquivo
 Git merge == Mescla linhas temporais
 Git reset --soft HEAD~1 == Remove o último commit
+Git branch -M main == Troca o nome de master para main
