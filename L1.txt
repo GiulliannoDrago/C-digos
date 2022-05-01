@@ -10,3 +10,4 @@ Git merge == Mescla linhas temporais
 Git reset --soft HEAD~1 == Remove o último commit
 Git branch -M main == Troca o nome de master para main
 Git branch NomeDaLinhaDoTempo == Adiciona uma nova linha do tempo 
+Git branch == Para ver as linhas temporais
